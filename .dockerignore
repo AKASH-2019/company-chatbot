@@ -1,0 +1,29 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Secrets
+<!-- .env
+.env.* -->
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Docs & misc
+README.md
+*.md
