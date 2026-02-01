@@ -6,3 +6,4 @@ documents = loader.load()
 
 create_faiss_index(documents)
 print("FAISS index created successfully")
+
