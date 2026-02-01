@@ -13,14 +13,14 @@ build/
 # ======================
 .venv/
 venv/
-# env/
+env/
 
 # ======================
 # Environment & Secrets
 # ======================
-# .env
-# .env.*
-# *.key
+.env
+.env.*
+*.key
 
 # ======================
 # OS / Editor

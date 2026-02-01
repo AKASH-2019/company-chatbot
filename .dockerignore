@@ -14,8 +14,8 @@ venv/
 env/
 
 # Secrets
-<!-- .env
-.env.* -->
+.env
+.env.*
 
 # Editor
 .vscode/

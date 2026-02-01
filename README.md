@@ -1,1 +1,1 @@
-# gowafir-chatbot-api
+# company-chatbot
